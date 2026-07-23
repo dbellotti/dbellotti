@@ -6,3 +6,5 @@
 </a>
 
 <sub>LLM usage · trailing 12 months · generated daily by <a href="https://github.com/dbellotti/debrief">debrief</a></sub>
+
+<!-- panel SVGs live on the usage-panel branch; refreshed daily -->
